@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Stock Me Up
+- 🔭 I’m currently working on an Expense Tracker
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Anythingggg!
 - 📫 How to reach me: joshalanis28@gmail.com
